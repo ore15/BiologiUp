@@ -138,7 +138,7 @@ body{
     }
     @media (min-width: 340px){
         .paralax img#sun{
-            width: 200%;
+            width: 250%;
         }
     }
     @media (min-width: 367px){
